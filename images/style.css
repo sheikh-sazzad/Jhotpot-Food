@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -30,3 +30,20 @@ section{
 .second-part{
     background-image: url(shapes/7.png);
 }
+.width{
+    width: 33%;
+    border-radius: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+}
+.width img{
+    width: 80%;
+    height: 250px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+
+
