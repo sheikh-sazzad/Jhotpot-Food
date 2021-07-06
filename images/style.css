@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -25,4 +26,7 @@ section{
     background-image: linear-gradient(orange,tomato);
     padding: 10px 30px;
     border-radius: 5px;
+}
+.second-part{
+    background-image: url(shapes/7.png);
 }
