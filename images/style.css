@@ -8,6 +8,9 @@ h1{
 .orange-color{
     color: orange;
 }
+.gray-color{
+    color: gray;
+}
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
@@ -30,6 +33,9 @@ h1{
 .second-part{
     background-image: url(shapes/7.png);
 }
+.fourth-part{
+    background-color: black;
+}
 .width{
     width: 33%;
     border-radius: 5%;
@@ -44,6 +50,27 @@ h1{
     padding-left: 15px;
     padding-top: 10px;
 }
+.font-color{
+    color: white;
+}
+.button {
+    background-image: linear-gradient(orange,tomato);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .login{
+    background-image: linear-gradient(orange,tomato);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 14px;
+    font-size: 16px;
+    cursor: pointer;
+  }
 
 
 
